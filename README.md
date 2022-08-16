@@ -1,3 +1,3 @@
-# Primeiro_Reposit-rio
+# Primeiro_Repositório
 Meu primeiro repositório
 Pequena modificação
